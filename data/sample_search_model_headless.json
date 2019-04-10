@@ -1,0 +1,3056 @@
+{
+  "facets": [
+    {
+      "name": "Transmission",
+      "displayName": null,
+      "values": [
+        {
+          "value": "Automatic",
+          "seoNormalizedValue": null,
+          "count": 33,
+          "selected": false
+        }
+      ],
+      "displayOrder": 0,
+      "seoPrefix": null
+    },
+    {
+      "name": "BasePrice",
+      "displayName": null,
+      "values": [
+        {
+          "value": "10000",
+          "seoNormalizedValue": null,
+          "count": 2,
+          "selected": false
+        },
+        {
+          "value": "11000",
+          "seoNormalizedValue": null,
+          "count": 1,
+          "selected": false
+        },
+        {
+          "value": "12000",
+          "seoNormalizedValue": null,
+          "count": 2,
+          "selected": false
+        },
+        {
+          "value": "13000",
+          "seoNormalizedValue": null,
+          "count": 1,
+          "selected": false
+        },
+        {
+          "value": "14000",
+          "seoNormalizedValue": null,
+          "count": 1,
+          "selected": false
+        },
+        {
+          "value": "15000",
+          "seoNormalizedValue": null,
+          "count": 6,
+          "selected": false
+        },
+        {
+          "value": "16000",
+          "seoNormalizedValue": null,
+          "count": 8,
+          "selected": false
+        },
+        {
+          "value": "17000",
+          "seoNormalizedValue": null,
+          "count": 6,
+          "selected": false
+        },
+        {
+          "value": "18000",
+          "seoNormalizedValue": null,
+          "count": 3,
+          "selected": false
+        },
+        {
+          "value": "19000",
+          "seoNormalizedValue": null,
+          "count": 1,
+          "selected": false
+        },
+        {
+          "value": "20000",
+          "seoNormalizedValue": null,
+          "count": 2,
+          "selected": false
+        }
+      ],
+      "displayOrder": 0,
+      "seoPrefix": null
+    },
+    {
+      "name": "VehicleSize",
+      "displayName": null,
+      "values": [
+        {
+          "value": "Mid-size",
+          "seoNormalizedValue": null,
+          "count": 33,
+          "selected": false
+        }
+      ],
+      "displayOrder": 0,
+      "seoPrefix": null
+    },
+    {
+      "name": "MpgCity",
+      "displayName": null,
+      "values": [
+        {
+          "value": "20",
+          "seoNormalizedValue": null,
+          "count": 7,
+          "selected": false
+        },
+        {
+          "value": "25",
+          "seoNormalizedValue": null,
+          "count": 25,
+          "selected": false
+        }
+      ],
+      "displayOrder": 0,
+      "seoPrefix": null
+    },
+    {
+      "name": "Mileage",
+      "displayName": null,
+      "values": [
+        {
+          "value": "5000",
+          "seoNormalizedValue": null,
+          "count": 2,
+          "selected": false
+        },
+        {
+          "value": "10000",
+          "seoNormalizedValue": null,
+          "count": 2,
+          "selected": false
+        },
+        {
+          "value": "15000",
+          "seoNormalizedValue": null,
+          "count": 4,
+          "selected": false
+        },
+        {
+          "value": "20000",
+          "seoNormalizedValue": null,
+          "count": 5,
+          "selected": false
+        },
+        {
+          "value": "25000",
+          "seoNormalizedValue": null,
+          "count": 1,
+          "selected": false
+        },
+        {
+          "value": "30000",
+          "seoNormalizedValue": null,
+          "count": 3,
+          "selected": false
+        },
+        {
+          "value": "35000",
+          "seoNormalizedValue": null,
+          "count": 4,
+          "selected": false
+        },
+        {
+          "value": "40000",
+          "seoNormalizedValue": null,
+          "count": 4,
+          "selected": false
+        },
+        {
+          "value": "45000",
+          "seoNormalizedValue": null,
+          "count": 1,
+          "selected": false
+        },
+        {
+          "value": "55000",
+          "seoNormalizedValue": null,
+          "count": 1,
+          "selected": false
+        },
+        {
+          "value": "60000",
+          "seoNormalizedValue": null,
+          "count": 1,
+          "selected": false
+        },
+        {
+          "value": "75000",
+          "seoNormalizedValue": null,
+          "count": 1,
+          "selected": false
+        },
+        {
+          "value": "95000",
+          "seoNormalizedValue": null,
+          "count": 2,
+          "selected": false
+        },
+        {
+          "value": "100000",
+          "seoNormalizedValue": null,
+          "count": 2,
+          "selected": false
+        }
+      ],
+      "displayOrder": 0,
+      "seoPrefix": null
+    },
+    {
+      "name": "Cylinders",
+      "displayName": null,
+      "values": [
+        {
+          "value": "4",
+          "seoNormalizedValue": null,
+          "count": 33,
+          "selected": false
+        }
+      ],
+      "displayOrder": 0,
+      "seoPrefix": null
+    },
+    {
+      "name": "IsSaleable",
+      "displayName": null,
+      "values": [
+        {
+          "value": "True",
+          "seoNormalizedValue": null,
+          "count": 33,
+          "selected": false
+        }
+      ],
+      "displayOrder": 0,
+      "seoPrefix": null
+    },
+    {
+      "name": "Make",
+      "displayName": null,
+      "values": [
+        {
+          "value": "Toyota",
+          "seoNormalizedValue": null,
+          "count": 33,
+          "selected": false
+        }
+      ],
+      "displayOrder": 0,
+      "seoPrefix": null
+    },
+    {
+      "name": "InteriorColor",
+      "displayName": null,
+      "values": [
+        {
+          "value": "Black",
+          "seoNormalizedValue": null,
+          "count": 16,
+          "selected": false
+        },
+        {
+          "value": "Blue",
+          "seoNormalizedValue": null,
+          "count": 1,
+          "selected": false
+        },
+        {
+          "value": "Gray",
+          "seoNormalizedValue": null,
+          "count": 12,
+          "selected": false
+        },
+        {
+          "value": "Tan",
+          "seoNormalizedValue": null,
+          "count": 3,
+          "selected": false
+        }
+      ],
+      "displayOrder": 0,
+      "seoPrefix": null
+    },
+    {
+      "name": "EngineSize",
+      "displayName": null,
+      "values": [
+        {
+          "value": "2.5L",
+          "seoNormalizedValue": null,
+          "count": 33,
+          "selected": false
+        }
+      ],
+      "displayOrder": 0,
+      "seoPrefix": null
+    },
+    {
+      "name": "IsNewArrival",
+      "displayName": null,
+      "values": [
+        {
+          "value": "False",
+          "seoNormalizedValue": null,
+          "count": 31,
+          "selected": false
+        },
+        {
+          "value": "True",
+          "seoNormalizedValue": null,
+          "count": 2,
+          "selected": false
+        }
+      ],
+      "displayOrder": 0,
+      "seoPrefix": null
+    },
+    {
+      "name": "Features",
+      "displayName": null,
+      "values": [
+        {
+          "value": "ABS Brakes",
+          "seoNormalizedValue": null,
+          "count": 33,
+          "selected": false
+        },
+        {
+          "value": "AM/FM Stereo",
+          "seoNormalizedValue": null,
+          "count": 33,
+          "selected": false
+        },
+        {
+          "value": "Air Conditioning",
+          "seoNormalizedValue": null,
+          "count": 33,
+          "selected": false
+        },
+        {
+          "value": "Alloy Wheels",
+          "seoNormalizedValue": null,
+          "count": 22,
+          "selected": false
+        },
+        {
+          "value": "Auto Cruise Control",
+          "seoNormalizedValue": null,
+          "count": 4,
+          "selected": false
+        },
+        {
+          "value": "Automatic Transmission",
+          "seoNormalizedValue": null,
+          "count": 33,
+          "selected": false
+        },
+        {
+          "value": "Auxiliary Audio Input",
+          "seoNormalizedValue": null,
+          "count": 33,
+          "selected": false
+        },
+        {
+          "value": "Blind Spot Monitor",
+          "seoNormalizedValue": null,
+          "count": 2,
+          "selected": false
+        },
+        {
+          "value": "Bluetooth",
+          "seoNormalizedValue": null,
+          "count": 30,
+          "selected": false
+        },
+        {
+          "value": "CD Audio",
+          "seoNormalizedValue": null,
+          "count": 29,
+          "selected": false
+        },
+        {
+          "value": "Cloth Seats",
+          "seoNormalizedValue": null,
+          "count": 18,
+          "selected": false
+        },
+        {
+          "value": "Convenience Package",
+          "seoNormalizedValue": null,
+          "count": 3,
+          "selected": false
+        },
+        {
+          "value": "Cruise Control",
+          "seoNormalizedValue": null,
+          "count": 29,
+          "selected": false
+        },
+        {
+          "value": "Entune",
+          "seoNormalizedValue": null,
+          "count": 13,
+          "selected": false
+        },
+        {
+          "value": "Front Seat Heaters",
+          "seoNormalizedValue": null,
+          "count": 2,
+          "selected": false
+        },
+        {
+          "value": "Lane Departure Warning",
+          "seoNormalizedValue": null,
+          "count": 4,
+          "selected": false
+        },
+        {
+          "value": "Leather & Suede Seats",
+          "seoNormalizedValue": null,
+          "count": 1,
+          "selected": false
+        },
+        {
+          "value": "Leather Seats",
+          "seoNormalizedValue": null,
+          "count": 2,
+          "selected": false
+        },
+        {
+          "value": "Leatherette & Cloth",
+          "seoNormalizedValue": null,
+          "count": 13,
+          "selected": false
+        },
+        {
+          "value": "Navigation System",
+          "seoNormalizedValue": null,
+          "count": 7,
+          "selected": false
+        },
+        {
+          "value": "Overhead Airbags",
+          "seoNormalizedValue": null,
+          "count": 33,
+          "selected": false
+        },
+        {
+          "value": "Power Locks",
+          "seoNormalizedValue": null,
+          "count": 33,
+          "selected": false
+        },
+        {
+          "value": "Power Mirrors",
+          "seoNormalizedValue": null,
+          "count": 33,
+          "selected": false
+        },
+        {
+          "value": "Power Seat(s)",
+          "seoNormalizedValue": null,
+          "count": 33,
+          "selected": false
+        },
+        {
+          "value": "Power Windows",
+          "seoNormalizedValue": null,
+          "count": 33,
+          "selected": false
+        },
+        {
+          "value": "Premium Sound",
+          "seoNormalizedValue": null,
+          "count": 1,
+          "selected": false
+        },
+        {
+          "value": "Rear Defroster",
+          "seoNormalizedValue": null,
+          "count": 33,
+          "selected": false
+        },
+        {
+          "value": "Rear Spoiler",
+          "seoNormalizedValue": null,
+          "count": 14,
+          "selected": false
+        },
+        {
+          "value": "Rear View Camera",
+          "seoNormalizedValue": null,
+          "count": 26,
+          "selected": false
+        },
+        {
+          "value": "Remote Start",
+          "seoNormalizedValue": null,
+          "count": 2,
+          "selected": false
+        },
+        {
+          "value": "Satellite Radio Ready",
+          "seoNormalizedValue": null,
+          "count": 8,
+          "selected": false
+        },
+        {
+          "value": "Side Airbags",
+          "seoNormalizedValue": null,
+          "count": 33,
+          "selected": false
+        },
+        {
+          "value": "SiriusXM Trial Avail",
+          "seoNormalizedValue": null,
+          "count": 9,
+          "selected": false
+        },
+        {
+          "value": "Smart Key",
+          "seoNormalizedValue": null,
+          "count": 5,
+          "selected": false
+        },
+        {
+          "value": "Sunroof(s)",
+          "seoNormalizedValue": null,
+          "count": 12,
+          "selected": false
+        },
+        {
+          "value": "Traction Control",
+          "seoNormalizedValue": null,
+          "count": 33,
+          "selected": false
+        }
+      ],
+      "displayOrder": 0,
+      "seoPrefix": null
+    },
+    {
+      "name": "Origin",
+      "displayName": null,
+      "values": [
+        {
+          "value": "Import",
+          "seoNormalizedValue": null,
+          "count": 33,
+          "selected": false
+        }
+      ],
+      "displayOrder": 0,
+      "seoPrefix": null
+    },
+    {
+      "name": "IsNew",
+      "displayName": null,
+      "values": [
+        {
+          "value": "False",
+          "seoNormalizedValue": null,
+          "count": 33,
+          "selected": false
+        }
+      ],
+      "displayOrder": 0,
+      "seoPrefix": null
+    },
+    {
+      "name": "Trim",
+      "displayName": null,
+      "values": [
+        {
+          "value": "LE",
+          "seoNormalizedValue": null,
+          "count": 16,
+          "selected": false
+        },
+        {
+          "value": "SE",
+          "seoNormalizedValue": null,
+          "count": 13,
+          "selected": false
+        },
+        {
+          "value": "Special Edition",
+          "seoNormalizedValue": null,
+          "count": 1,
+          "selected": false
+        },
+        {
+          "value": "XLE",
+          "seoNormalizedValue": null,
+          "count": 2,
+          "selected": false
+        },
+        {
+          "value": "XSE",
+          "seoNormalizedValue": null,
+          "count": 1,
+          "selected": false
+        }
+      ],
+      "displayOrder": 0,
+      "seoPrefix": null
+    },
+    {
+      "name": "StoreId",
+      "displayName": null,
+      "values": [
+        {
+          "value": "6013",
+          "seoNormalizedValue": null,
+          "count": 2,
+          "selected": false
+        },
+        {
+          "value": "6041",
+          "seoNormalizedValue": null,
+          "count": 1,
+          "selected": false
+        },
+        {
+          "value": "6043",
+          "seoNormalizedValue": null,
+          "count": 4,
+          "selected": false
+        },
+        {
+          "value": "6055",
+          "seoNormalizedValue": null,
+          "count": 1,
+          "selected": false
+        },
+        {
+          "value": "6059",
+          "seoNormalizedValue": null,
+          "count": 3,
+          "selected": false
+        },
+        {
+          "value": "7165",
+          "seoNormalizedValue": null,
+          "count": 2,
+          "selected": false
+        },
+        {
+          "value": "7175",
+          "seoNormalizedValue": null,
+          "count": 8,
+          "selected": false
+        },
+        {
+          "value": "7176",
+          "seoNormalizedValue": null,
+          "count": 4,
+          "selected": false
+        },
+        {
+          "value": "7240",
+          "seoNormalizedValue": null,
+          "count": 5,
+          "selected": false
+        },
+        {
+          "value": "7283",
+          "seoNormalizedValue": null,
+          "count": 3,
+          "selected": false
+        }
+      ],
+      "displayOrder": 0,
+      "seoPrefix": null
+    },
+    {
+      "name": "Packages",
+      "displayName": null,
+      "values": [
+        {
+          "value": "Convenience Package",
+          "seoNormalizedValue": null,
+          "count": 3,
+          "selected": false
+        }
+      ],
+      "displayOrder": 0,
+      "seoPrefix": null
+    },
+    {
+      "name": "Series",
+      "displayName": null,
+      "values": [],
+      "displayOrder": 0,
+      "seoPrefix": null
+    },
+    {
+      "name": "DriveTrain",
+      "displayName": null,
+      "values": [
+        {
+          "value": "2WD",
+          "seoNormalizedValue": null,
+          "count": 33,
+          "selected": false
+        }
+      ],
+      "displayOrder": 0,
+      "seoPrefix": null
+    },
+    {
+      "name": "StoreName",
+      "displayName": null,
+      "values": [
+        {
+          "value": "Buffalo",
+          "seoNormalizedValue": null,
+          "count": 3,
+          "selected": false
+        },
+        {
+          "value": "Cincinnati",
+          "seoNormalizedValue": null,
+          "count": 8,
+          "selected": false
+        },
+        {
+          "value": "Cleveland East",
+          "seoNormalizedValue": null,
+          "count": 2,
+          "selected": false
+        },
+        {
+          "value": "Columbus Easton",
+          "seoNormalizedValue": null,
+          "count": 3,
+          "selected": false
+        },
+        {
+          "value": "Columbus Sawmill",
+          "seoNormalizedValue": null,
+          "count": 4,
+          "selected": false
+        },
+        {
+          "value": "Dayton",
+          "seoNormalizedValue": null,
+          "count": 5,
+          "selected": false
+        },
+        {
+          "value": "Grand Rapids (Kentwood)",
+          "seoNormalizedValue": null,
+          "count": 1,
+          "selected": false
+        },
+        {
+          "value": "Harrisonburg",
+          "seoNormalizedValue": null,
+          "count": 1,
+          "selected": false
+        },
+        {
+          "value": "Mechanicsburg",
+          "seoNormalizedValue": null,
+          "count": 2,
+          "selected": false
+        },
+        {
+          "value": "Rochester",
+          "seoNormalizedValue": null,
+          "count": 4,
+          "selected": false
+        }
+      ],
+      "displayOrder": 0,
+      "seoPrefix": null
+    },
+    {
+      "name": "Body",
+      "displayName": null,
+      "values": [
+        {
+          "value": "4D Sedan",
+          "seoNormalizedValue": null,
+          "count": 33,
+          "selected": false
+        }
+      ],
+      "displayOrder": 0,
+      "seoPrefix": null
+    },
+    {
+      "name": "Model",
+      "displayName": null,
+      "values": [
+        {
+          "value": "Camry",
+          "seoNormalizedValue": null,
+          "count": 33,
+          "selected": false
+        }
+      ],
+      "displayOrder": 0,
+      "seoPrefix": null
+    },
+    {
+      "name": "ExteriorColor",
+      "displayName": null,
+      "values": [
+        {
+          "value": "Black",
+          "seoNormalizedValue": null,
+          "count": 7,
+          "selected": false
+        },
+        {
+          "value": "Blue",
+          "seoNormalizedValue": null,
+          "count": 4,
+          "selected": false
+        },
+        {
+          "value": "Gray",
+          "seoNormalizedValue": null,
+          "count": 8,
+          "selected": false
+        },
+        {
+          "value": "Green",
+          "seoNormalizedValue": null,
+          "count": 1,
+          "selected": false
+        },
+        {
+          "value": "Red",
+          "seoNormalizedValue": null,
+          "count": 2,
+          "selected": false
+        },
+        {
+          "value": "Silver",
+          "seoNormalizedValue": null,
+          "count": 7,
+          "selected": false
+        },
+        {
+          "value": "White",
+          "seoNormalizedValue": null,
+          "count": 4,
+          "selected": false
+        }
+      ],
+      "displayOrder": 0,
+      "seoPrefix": null
+    },
+    {
+      "name": "Year",
+      "displayName": null,
+      "values": [
+        {
+          "value": "2011",
+          "seoNormalizedValue": null,
+          "count": 4,
+          "selected": false
+        },
+        {
+          "value": "2013",
+          "seoNormalizedValue": null,
+          "count": 1,
+          "selected": false
+        },
+        {
+          "value": "2014",
+          "seoNormalizedValue": null,
+          "count": 2,
+          "selected": false
+        },
+        {
+          "value": "2015",
+          "seoNormalizedValue": null,
+          "count": 2,
+          "selected": false
+        },
+        {
+          "value": "2016",
+          "seoNormalizedValue": null,
+          "count": 17,
+          "selected": false
+        },
+        {
+          "value": "2017",
+          "seoNormalizedValue": null,
+          "count": 3,
+          "selected": false
+        },
+        {
+          "value": "2018",
+          "seoNormalizedValue": null,
+          "count": 4,
+          "selected": false
+        }
+      ],
+      "displayOrder": 0,
+      "seoPrefix": null
+    },
+    {
+      "name": "MpgHighway",
+      "displayName": null,
+      "values": [
+        {
+          "value": "30",
+          "seoNormalizedValue": null,
+          "count": 24,
+          "selected": false
+        },
+        {
+          "value": "35",
+          "seoNormalizedValue": null,
+          "count": 8,
+          "selected": false
+        }
+      ],
+      "displayOrder": 0,
+      "seoPrefix": null
+    },
+    {
+      "name": "Types",
+      "displayName": null,
+      "values": [
+        {
+          "value": "Sedans",
+          "seoNormalizedValue": null,
+          "count": 33,
+          "selected": false
+        }
+      ],
+      "displayOrder": 0,
+      "seoPrefix": null
+    }
+  ],
+  "selectedFacetValues": [
+    "camry",
+    "toyota"
+  ],
+  "searchByKeyword": null,
+  "replacedKeyWord": null,
+  "items": [
+    {
+      "stockNumber": 17077394,
+      "vin": "4T1BF3EKXBU710212",
+      "year": 2011,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "LE",
+      "basePrice": 10998.0,
+      "msrp": 19600.0,
+      "mileage": 101532,
+      "storeId": 7165,
+      "storeName": "Cleveland East",
+      "storeCity": "Cleveland",
+      "geoCity": "Cleveland",
+      "state": "Ohio",
+      "stateAbbreviation": null,
+      "averageRating": 4.544,
+      "numberOfReviews": 138,
+      "imageCount": "22",
+      "newTireCount": 0,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": false,
+      "highlightedFeatures": "Leather Seats, Cruise Control, Auxiliary Audio Input, Overhead Airbags, Traction Control, Side Airbags",
+      "highlights": [],
+      "badgeTitles": [],
+      "lastMadeSaleableDate": "2019-03-14T12:06:11.853Z",
+      "transferFee": null,
+      "transferTags": [
+        "SameLocation"
+      ],
+      "transferText": "Available at your store - Cleveland, OH",
+      "exteriorColor": "Green",
+      "interiorColor": "Tan",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "44128"
+    },
+    {
+      "stockNumber": 17153435,
+      "vin": "JTNB11HK9J3015321",
+      "year": 2018,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "LE",
+      "basePrice": 17998.0,
+      "msrp": 23500.0,
+      "mileage": 39775,
+      "storeId": 7165,
+      "storeName": "Cleveland East",
+      "storeCity": "Cleveland",
+      "geoCity": "Cleveland",
+      "state": "Ohio",
+      "stateAbbreviation": null,
+      "averageRating": 5.0,
+      "numberOfReviews": 3,
+      "imageCount": "23",
+      "newTireCount": 2,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": false,
+      "highlightedFeatures": "Auto Cruise Control, Rear View Camera, Auxiliary Audio Input, Alloy Wheels, Overhead Airbags, Traction Control",
+      "highlights": [
+        "newPairTires",
+        "fuelEfficient",
+        "advancedFeatures"
+      ],
+      "badgeTitles": [
+        "New Pair Tires",
+        "Fuel Efficient",
+        "Advanced Features"
+      ],
+      "lastMadeSaleableDate": "2019-02-14T10:09:33.73Z",
+      "transferFee": null,
+      "transferTags": [
+        "SameLocation"
+      ],
+      "transferText": "Available at your store - Cleveland, OH",
+      "exteriorColor": "Silver",
+      "interiorColor": "Black",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "44128"
+    },
+    {
+      "stockNumber": 17072187,
+      "vin": "4T4BF1FK5GR544357",
+      "year": 2016,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "LE",
+      "basePrice": 15998.0,
+      "msrp": 23100.0,
+      "mileage": 23340,
+      "storeId": 7283,
+      "storeName": "Columbus Easton",
+      "storeCity": "Columbus",
+      "geoCity": "Columbus",
+      "state": "Ohio",
+      "stateAbbreviation": null,
+      "averageRating": 4.64,
+      "numberOfReviews": 25,
+      "imageCount": "23",
+      "newTireCount": 0,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": true,
+      "highlightedFeatures": "Rear View Camera, Cruise Control, Auxiliary Audio Input, Overhead Airbags, Traction Control, Side Airbags",
+      "highlights": [
+        "singleOwner",
+        "lowMilesPerYear",
+        "warranty"
+      ],
+      "badgeTitles": [
+        "Single Owner",
+        "Low Miles Per Year",
+        "Warranty"
+      ],
+      "lastMadeSaleableDate": "2019-04-01T19:06:11.367Z",
+      "transferFee": 0.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "FreeTransfer"
+      ],
+      "transferText": "Free Transfer to your store - OH to OH",
+      "exteriorColor": "Blue",
+      "interiorColor": "Black",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "43219"
+    },
+    {
+      "stockNumber": 17077600,
+      "vin": "4T4BF1FK1ER361390",
+      "year": 2014,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "XLE",
+      "basePrice": 13599.0,
+      "msrp": 22300.0,
+      "mileage": 79009,
+      "storeId": 7176,
+      "storeName": "Columbus Sawmill",
+      "storeCity": "Columbus",
+      "geoCity": "Columbus",
+      "state": "Ohio",
+      "stateAbbreviation": null,
+      "averageRating": 4.6,
+      "numberOfReviews": 90,
+      "imageCount": "22",
+      "newTireCount": 0,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": true,
+      "highlightedFeatures": "Sunroof(s), Cruise Control, Auxiliary Audio Input, Alloy Wheels, Overhead Airbags, Traction Control",
+      "highlights": [],
+      "badgeTitles": [],
+      "lastMadeSaleableDate": "2019-03-26T09:09:38.947Z",
+      "transferFee": 0.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "FreeTransfer"
+      ],
+      "transferText": "Free Transfer to your store - OH to OH",
+      "exteriorColor": "Black",
+      "interiorColor": "Gray",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "43235"
+    },
+    {
+      "stockNumber": 17204676,
+      "vin": "4T1BF3EK0BU713765",
+      "year": 2011,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "SE",
+      "basePrice": 11599.0,
+      "msrp": 19600.0,
+      "mileage": 99280,
+      "storeId": 7176,
+      "storeName": "Columbus Sawmill",
+      "storeCity": "Columbus",
+      "geoCity": "Columbus",
+      "state": "Ohio",
+      "stateAbbreviation": null,
+      "averageRating": 4.544,
+      "numberOfReviews": 138,
+      "imageCount": "23",
+      "newTireCount": 0,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": true,
+      "highlightedFeatures": "Sunroof(s), Cruise Control, Auxiliary Audio Input, Rear Spoiler, Alloy Wheels, Overhead Airbags",
+      "highlights": [
+        "singleOwner"
+      ],
+      "badgeTitles": [
+        "Single Owner"
+      ],
+      "lastMadeSaleableDate": "2019-04-05T15:06:56.46Z",
+      "transferFee": 0.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "FreeTransfer"
+      ],
+      "transferText": "Free Transfer to your store - OH to OH",
+      "exteriorColor": "Red",
+      "interiorColor": "Black",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "43235"
+    },
+    {
+      "stockNumber": 17204305,
+      "vin": "4T1BF1FKXDU262124",
+      "year": 2013,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "LE",
+      "basePrice": 12599.0,
+      "msrp": 23300.0,
+      "mileage": 98386,
+      "storeId": 7176,
+      "storeName": "Columbus Sawmill",
+      "storeCity": "Columbus",
+      "geoCity": "Columbus",
+      "state": "Ohio",
+      "stateAbbreviation": null,
+      "averageRating": 4.391,
+      "numberOfReviews": 64,
+      "imageCount": "22",
+      "newTireCount": 0,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": true,
+      "highlightedFeatures": "Cruise Control, Auxiliary Audio Input, Overhead Airbags, Traction Control, Side Airbags, Air Conditioning",
+      "highlights": [],
+      "badgeTitles": [],
+      "lastMadeSaleableDate": "2019-04-06T09:07:25.047Z",
+      "transferFee": 0.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "FreeTransfer"
+      ],
+      "transferText": "Free Transfer to your store - OH to OH",
+      "exteriorColor": "Gray",
+      "interiorColor": "Gray",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "43235"
+    },
+    {
+      "stockNumber": 17239082,
+      "vin": "4T1BF1FK0GU564350",
+      "year": 2016,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "SE",
+      "basePrice": 17998.0,
+      "msrp": 23100.0,
+      "mileage": 35429,
+      "storeId": 7176,
+      "storeName": "Columbus Sawmill",
+      "storeCity": "Columbus",
+      "geoCity": "Columbus",
+      "state": "Ohio",
+      "stateAbbreviation": null,
+      "averageRating": 4.64,
+      "numberOfReviews": 25,
+      "imageCount": "25",
+      "newTireCount": 0,
+      "isNew": false,
+      "isNewArrival": true,
+      "isTransferable": true,
+      "highlightedFeatures": "Convenience Package, Sunroof(s), Rear View Camera, Navigation System, Cruise Control, Auxiliary Audio Input",
+      "highlights": [
+        "singleOwner",
+        "warranty"
+      ],
+      "badgeTitles": [
+        "Single Owner",
+        "Warranty"
+      ],
+      "lastMadeSaleableDate": "2019-04-09T09:06:20.013Z",
+      "transferFee": 0.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "FreeTransfer"
+      ],
+      "transferText": "Free Transfer to your store - OH to OH",
+      "exteriorColor": "Black",
+      "interiorColor": "Black",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "43235"
+    },
+    {
+      "stockNumber": 16342369,
+      "vin": "4T1BF1FK7HU644021",
+      "year": 2017,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "XSE",
+      "basePrice": 19998.0,
+      "msrp": 23100.0,
+      "mileage": 14310,
+      "storeId": 7283,
+      "storeName": "Columbus Easton",
+      "storeCity": "Columbus",
+      "geoCity": "Columbus",
+      "state": "Ohio",
+      "stateAbbreviation": null,
+      "averageRating": 4.654,
+      "numberOfReviews": 26,
+      "imageCount": "21",
+      "newTireCount": 0,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": true,
+      "highlightedFeatures": "Leather & Suede Seats, JBL Sound System, Rear View Camera, Front Seat Heaters, Cruise Control, Auxiliary Audio Input",
+      "highlights": [
+        "singleOwner",
+        "lowMiles",
+        "warranty",
+        "premiumAudio"
+      ],
+      "badgeTitles": [
+        "Single Owner",
+        "Low Miles",
+        "Warranty",
+        "Premium Audio"
+      ],
+      "lastMadeSaleableDate": "2018-08-01T20:05:22.207Z",
+      "transferFee": 0.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "FreeTransfer"
+      ],
+      "transferText": "Free Transfer to your store - OH to OH",
+      "exteriorColor": "Silver",
+      "interiorColor": "Black",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "43219"
+    },
+    {
+      "stockNumber": 16570180,
+      "vin": "4T1BF1FK4EU352001",
+      "year": 2014,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "SE",
+      "basePrice": 14998.0,
+      "msrp": 22300.0,
+      "mileage": 42160,
+      "storeId": 7283,
+      "storeName": "Columbus Easton",
+      "storeCity": "Columbus",
+      "geoCity": "Columbus",
+      "state": "Ohio",
+      "stateAbbreviation": null,
+      "averageRating": 4.6,
+      "numberOfReviews": 90,
+      "imageCount": "22",
+      "newTireCount": 0,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": true,
+      "highlightedFeatures": "Cruise Control, Auxiliary Audio Input, Alloy Wheels, Overhead Airbags, Traction Control, Side Airbags",
+      "highlights": [
+        "singleOwner",
+        "lowMilesPerYear"
+      ],
+      "badgeTitles": [
+        "Single Owner",
+        "Low Miles Per Year"
+      ],
+      "lastMadeSaleableDate": "2019-02-19T11:08:06.933Z",
+      "transferFee": 0.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "FreeTransfer"
+      ],
+      "transferText": "Free Transfer to your store - OH to OH",
+      "exteriorColor": "Silver",
+      "interiorColor": "Black",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "43219"
+    },
+    {
+      "stockNumber": 17238751,
+      "vin": "4T1BF1FK5GU131428",
+      "year": 2016,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "SE",
+      "basePrice": 15998.0,
+      "msrp": 23100.0,
+      "mileage": 37373,
+      "storeId": 7240,
+      "storeName": "Dayton",
+      "storeCity": "Dayton",
+      "geoCity": "Dayton",
+      "state": "Ohio",
+      "stateAbbreviation": null,
+      "averageRating": 4.64,
+      "numberOfReviews": 25,
+      "imageCount": "21",
+      "newTireCount": 0,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": true,
+      "highlightedFeatures": "Rear View Camera, Cruise Control, Auxiliary Audio Input, Rear Spoiler, Alloy Wheels, Overhead Airbags",
+      "highlights": [
+        "singleOwner"
+      ],
+      "badgeTitles": [
+        "Single Owner"
+      ],
+      "lastMadeSaleableDate": "2019-03-29T22:16:10.363Z",
+      "transferFee": 0.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "FreeTransfer"
+      ],
+      "transferText": "Free Transfer to your store - OH to OH",
+      "exteriorColor": "Gray",
+      "interiorColor": "Black",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "45449"
+    },
+    {
+      "stockNumber": 17291301,
+      "vin": "4T1BF1FK6GU236432",
+      "year": 2016,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "SE",
+      "basePrice": 17998.0,
+      "msrp": 23100.0,
+      "mileage": 17934,
+      "storeId": 7240,
+      "storeName": "Dayton",
+      "storeCity": "Dayton",
+      "geoCity": "Dayton",
+      "state": "Ohio",
+      "stateAbbreviation": null,
+      "averageRating": 4.64,
+      "numberOfReviews": 25,
+      "imageCount": "22",
+      "newTireCount": 0,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": true,
+      "highlightedFeatures": "Rear View Camera, Cruise Control, Auxiliary Audio Input, Rear Spoiler, Alloy Wheels, Overhead Airbags",
+      "highlights": [
+        "singleOwner",
+        "lowMiles",
+        "warranty"
+      ],
+      "badgeTitles": [
+        "Single Owner",
+        "Low Miles",
+        "Warranty"
+      ],
+      "lastMadeSaleableDate": "2019-03-18T12:26:37.8Z",
+      "transferFee": 0.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "FreeTransfer"
+      ],
+      "transferText": "Free Transfer to your store - OH to OH",
+      "exteriorColor": "Gray",
+      "interiorColor": "Black",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "45449"
+    },
+    {
+      "stockNumber": 16845642,
+      "vin": "4T1BF1FK0HU650551",
+      "year": 2017,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "LE",
+      "basePrice": 16998.0,
+      "msrp": 23100.0,
+      "mileage": 16655,
+      "storeId": 7240,
+      "storeName": "Dayton",
+      "storeCity": "Dayton",
+      "geoCity": "Dayton",
+      "state": "Ohio",
+      "stateAbbreviation": null,
+      "averageRating": 4.654,
+      "numberOfReviews": 26,
+      "imageCount": "22",
+      "newTireCount": 0,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": true,
+      "highlightedFeatures": "Rear View Camera, Cruise Control, Auxiliary Audio Input, Overhead Airbags, Traction Control, Side Airbags",
+      "highlights": [
+        "singleOwner",
+        "lowMiles",
+        "warranty"
+      ],
+      "badgeTitles": [
+        "Single Owner",
+        "Low Miles",
+        "Warranty"
+      ],
+      "lastMadeSaleableDate": "2019-03-18T09:06:56.71Z",
+      "transferFee": 0.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "FreeTransfer"
+      ],
+      "transferText": "Free Transfer to your store - OH to OH",
+      "exteriorColor": "Blue",
+      "interiorColor": "Gray",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "45449"
+    },
+    {
+      "stockNumber": 16845962,
+      "vin": "4T4BF3EK8BR194423",
+      "year": 2011,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "LE",
+      "basePrice": 10998.0,
+      "msrp": 19600.0,
+      "mileage": 102886,
+      "storeId": 7240,
+      "storeName": "Dayton",
+      "storeCity": "Dayton",
+      "geoCity": "Dayton",
+      "state": "Ohio",
+      "stateAbbreviation": null,
+      "averageRating": 4.544,
+      "numberOfReviews": 138,
+      "imageCount": "20",
+      "newTireCount": 0,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": true,
+      "highlightedFeatures": "Cruise Control, Auxiliary Audio Input, Overhead Airbags, Traction Control, Side Airbags, Air Conditioning",
+      "highlights": [],
+      "badgeTitles": [],
+      "lastMadeSaleableDate": "2019-04-01T09:07:20.6Z",
+      "transferFee": 0.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "FreeTransfer"
+      ],
+      "transferText": "Free Transfer to your store - OH to OH",
+      "exteriorColor": "White",
+      "interiorColor": "Tan",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "45449"
+    },
+    {
+      "stockNumber": 16937106,
+      "vin": "JTNB11HK1J3016642",
+      "year": 2018,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "LE",
+      "basePrice": 18998.0,
+      "msrp": 23500.0,
+      "mileage": 32610,
+      "storeId": 6059,
+      "storeName": "Buffalo",
+      "storeCity": "Buffalo",
+      "geoCity": "Buffalo",
+      "state": "New York",
+      "stateAbbreviation": null,
+      "averageRating": 5.0,
+      "numberOfReviews": 3,
+      "imageCount": "22",
+      "newTireCount": 0,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": true,
+      "highlightedFeatures": "Auto Cruise Control, Rear View Camera, Auxiliary Audio Input, Alloy Wheels, Overhead Airbags, Traction Control",
+      "highlights": [
+        "singleOwner",
+        "warranty",
+        "fuelEfficient",
+        "advancedFeatures"
+      ],
+      "badgeTitles": [
+        "Single Owner",
+        "Warranty",
+        "Fuel Efficient",
+        "Advanced Features"
+      ],
+      "lastMadeSaleableDate": "2019-01-09T15:05:53.913Z",
+      "transferFee": 0.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "FreeTransfer"
+      ],
+      "transferText": "Free Transfer to your store - NY to OH",
+      "exteriorColor": "Black",
+      "interiorColor": "Black",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "14228"
+    },
+    {
+      "stockNumber": 17010544,
+      "vin": "4T1BF1FK7GU117918",
+      "year": 2016,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "SE",
+      "basePrice": 16998.0,
+      "msrp": 23100.0,
+      "mileage": 20654,
+      "storeId": 6059,
+      "storeName": "Buffalo",
+      "storeCity": "Buffalo",
+      "geoCity": "Buffalo",
+      "state": "New York",
+      "stateAbbreviation": null,
+      "averageRating": 4.64,
+      "numberOfReviews": 25,
+      "imageCount": "23",
+      "newTireCount": 0,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": true,
+      "highlightedFeatures": "Sunroof(s), Rear View Camera, Navigation System, Cruise Control, Auxiliary Audio Input, Rear Spoiler",
+      "highlights": [
+        "singleOwner",
+        "lowMilesPerYear",
+        "warranty"
+      ],
+      "badgeTitles": [
+        "Single Owner",
+        "Low Miles Per Year",
+        "Warranty"
+      ],
+      "lastMadeSaleableDate": "2019-02-14T15:05:36.373Z",
+      "transferFee": 0.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "FreeTransfer"
+      ],
+      "transferText": "Free Transfer to your store - NY to OH",
+      "exteriorColor": "Black",
+      "interiorColor": "Black",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "14228"
+    },
+    {
+      "stockNumber": 16812521,
+      "vin": "4T1BF3EK0BU188884",
+      "year": 2011,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "LE",
+      "basePrice": 12998.0,
+      "msrp": 19600.0,
+      "mileage": 63516,
+      "storeId": 6059,
+      "storeName": "Buffalo",
+      "storeCity": "Buffalo",
+      "geoCity": "Buffalo",
+      "state": "New York",
+      "stateAbbreviation": null,
+      "averageRating": 4.544,
+      "numberOfReviews": 138,
+      "imageCount": null,
+      "newTireCount": 0,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": true,
+      "highlightedFeatures": "Sunroof(s), Cruise Control, Auxiliary Audio Input, Alloy Wheels, Overhead Airbags, Traction Control",
+      "highlights": [
+        "singleOwner",
+        "lowMilesPerYear"
+      ],
+      "badgeTitles": [
+        "Single Owner",
+        "Low Miles Per Year"
+      ],
+      "lastMadeSaleableDate": "2019-03-27T12:06:08.18Z",
+      "transferFee": 0.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "FreeTransfer"
+      ],
+      "transferText": "Free Transfer to your store - NY to OH",
+      "exteriorColor": "Black",
+      "interiorColor": "Tan",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "14228"
+    },
+    {
+      "stockNumber": 17237600,
+      "vin": "4T1BF1FK8GU203593",
+      "year": 2016,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "SE",
+      "basePrice": 16998.0,
+      "msrp": 23100.0,
+      "mileage": 29162,
+      "storeId": 7240,
+      "storeName": "Dayton",
+      "storeCity": "Dayton",
+      "geoCity": "Dayton",
+      "state": "Ohio",
+      "stateAbbreviation": null,
+      "averageRating": 4.64,
+      "numberOfReviews": 25,
+      "imageCount": "23",
+      "newTireCount": 0,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": true,
+      "highlightedFeatures": "Rear View Camera, Cruise Control, Auxiliary Audio Input, Rear Spoiler, Alloy Wheels, Overhead Airbags",
+      "highlights": [
+        "singleOwner",
+        "warranty"
+      ],
+      "badgeTitles": [
+        "Single Owner",
+        "Warranty"
+      ],
+      "lastMadeSaleableDate": "2019-03-07T22:05:10.743Z",
+      "transferFee": 0.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "FreeTransfer"
+      ],
+      "transferText": "Free Transfer to your store - OH to OH",
+      "exteriorColor": "Gray",
+      "interiorColor": "Gray",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "45449"
+    },
+    {
+      "stockNumber": 17239088,
+      "vin": "4T1BF1FK4GU200478",
+      "year": 2016,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "SE",
+      "basePrice": 16998.0,
+      "msrp": 23100.0,
+      "mileage": 35043,
+      "storeId": 7175,
+      "storeName": "Cincinnati",
+      "storeCity": "Cincinnati",
+      "geoCity": "Cincinnati",
+      "state": "Ohio",
+      "stateAbbreviation": null,
+      "averageRating": 4.64,
+      "numberOfReviews": 25,
+      "imageCount": "25",
+      "newTireCount": 0,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": true,
+      "highlightedFeatures": "Sunroof(s), Rear View Camera, Cruise Control, Auxiliary Audio Input, Rear Spoiler, Alloy Wheels",
+      "highlights": [
+        "singleOwner",
+        "warranty"
+      ],
+      "badgeTitles": [
+        "Single Owner",
+        "Warranty"
+      ],
+      "lastMadeSaleableDate": "2019-04-04T09:26:37.237Z",
+      "transferFee": 0.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "FreeTransfer"
+      ],
+      "transferText": "Free Transfer to your store - OH to OH",
+      "exteriorColor": "White",
+      "interiorColor": "Gray",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "45240"
+    },
+    {
+      "stockNumber": 17239089,
+      "vin": "4T1BF1FK0GU518906",
+      "year": 2016,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "SE",
+      "basePrice": 17998.0,
+      "msrp": 23100.0,
+      "mileage": 31898,
+      "storeId": 7175,
+      "storeName": "Cincinnati",
+      "storeCity": "Cincinnati",
+      "geoCity": "Cincinnati",
+      "state": "Ohio",
+      "stateAbbreviation": null,
+      "averageRating": 4.64,
+      "numberOfReviews": 25,
+      "imageCount": "23",
+      "newTireCount": 0,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": true,
+      "highlightedFeatures": "Convenience Package, Sunroof(s), Rear View Camera, Navigation System, Cruise Control, Auxiliary Audio Input",
+      "highlights": [
+        "singleOwner",
+        "warranty"
+      ],
+      "badgeTitles": [
+        "Single Owner",
+        "Warranty"
+      ],
+      "lastMadeSaleableDate": "2019-04-03T13:06:34.05Z",
+      "transferFee": 0.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "FreeTransfer"
+      ],
+      "transferText": "Free Transfer to your store - OH to OH",
+      "exteriorColor": "Black",
+      "interiorColor": "Black",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "45240"
+    },
+    {
+      "stockNumber": 17239091,
+      "vin": "4T4BF1FK2GR569281",
+      "year": 2016,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "LE",
+      "basePrice": 16998.0,
+      "msrp": 23100.0,
+      "mileage": 22778,
+      "storeId": 7175,
+      "storeName": "Cincinnati",
+      "storeCity": "Cincinnati",
+      "geoCity": "Cincinnati",
+      "state": "Ohio",
+      "stateAbbreviation": null,
+      "averageRating": 4.64,
+      "numberOfReviews": 25,
+      "imageCount": "23",
+      "newTireCount": 0,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": true,
+      "highlightedFeatures": "Rear View Camera, Cruise Control, Auxiliary Audio Input, Overhead Airbags, Traction Control, Side Airbags",
+      "highlights": [
+        "singleOwner",
+        "lowMilesPerYear",
+        "warranty"
+      ],
+      "badgeTitles": [
+        "Single Owner",
+        "Low Miles Per Year",
+        "Warranty"
+      ],
+      "lastMadeSaleableDate": "2019-04-02T15:07:15.897Z",
+      "transferFee": 0.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "FreeTransfer"
+      ],
+      "transferText": "Free Transfer to your store - OH to OH",
+      "exteriorColor": "White",
+      "interiorColor": "Gray",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "45240"
+    },
+    {
+      "stockNumber": 17237900,
+      "vin": "4T1BF1FK0HU445554",
+      "year": 2017,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "LE",
+      "basePrice": 15998.0,
+      "msrp": 23100.0,
+      "mileage": 57992,
+      "storeId": 7175,
+      "storeName": "Cincinnati",
+      "storeCity": "Cincinnati",
+      "geoCity": "Cincinnati",
+      "state": "Ohio",
+      "stateAbbreviation": null,
+      "averageRating": 4.654,
+      "numberOfReviews": 26,
+      "imageCount": "23",
+      "newTireCount": 0,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": true,
+      "highlightedFeatures": "Rear View Camera, Cruise Control, Auxiliary Audio Input, Overhead Airbags, Traction Control, Side Airbags",
+      "highlights": [
+        "singleOwner"
+      ],
+      "badgeTitles": [
+        "Single Owner"
+      ],
+      "lastMadeSaleableDate": "2019-04-05T14:05:20.113Z",
+      "transferFee": 0.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "FreeTransfer"
+      ],
+      "transferText": "Free Transfer to your store - OH to OH",
+      "exteriorColor": "Gray",
+      "interiorColor": "Black",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "45240"
+    },
+    {
+      "stockNumber": 17239090,
+      "vin": "4T1BF1FK2GU581568",
+      "year": 2016,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "LE",
+      "basePrice": 15998.0,
+      "msrp": 23100.0,
+      "mileage": 32810,
+      "storeId": 7175,
+      "storeName": "Cincinnati",
+      "storeCity": "Cincinnati",
+      "geoCity": "Cincinnati",
+      "state": "Ohio",
+      "stateAbbreviation": null,
+      "averageRating": 4.64,
+      "numberOfReviews": 25,
+      "imageCount": "23",
+      "newTireCount": 0,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": true,
+      "highlightedFeatures": "Rear View Camera, Cruise Control, Auxiliary Audio Input, Overhead Airbags, Traction Control, Side Airbags",
+      "highlights": [
+        "singleOwner",
+        "warranty"
+      ],
+      "badgeTitles": [
+        "Single Owner",
+        "Warranty"
+      ],
+      "lastMadeSaleableDate": "2019-04-06T09:07:25.047Z",
+      "transferFee": 0.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "FreeTransfer"
+      ],
+      "transferText": "Free Transfer to your store - OH to OH",
+      "exteriorColor": "Red",
+      "interiorColor": "Gray",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "45240"
+    },
+    {
+      "stockNumber": 17239086,
+      "vin": "4T4BF1FK4GR543569",
+      "year": 2016,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "LE",
+      "basePrice": 16998.0,
+      "msrp": 23100.0,
+      "mileage": 20548,
+      "storeId": 7175,
+      "storeName": "Cincinnati",
+      "storeCity": "Cincinnati",
+      "geoCity": "Cincinnati",
+      "state": "Ohio",
+      "stateAbbreviation": null,
+      "averageRating": 4.64,
+      "numberOfReviews": 25,
+      "imageCount": "23",
+      "newTireCount": 0,
+      "isNew": false,
+      "isNewArrival": true,
+      "isTransferable": true,
+      "highlightedFeatures": "Rear View Camera, Cruise Control, Auxiliary Audio Input, Overhead Airbags, Traction Control, Side Airbags",
+      "highlights": [
+        "singleOwner",
+        "lowMilesPerYear",
+        "warranty"
+      ],
+      "badgeTitles": [
+        "Single Owner",
+        "Low Miles Per Year",
+        "Warranty"
+      ],
+      "lastMadeSaleableDate": "2019-04-08T12:07:28.28Z",
+      "transferFee": 0.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "FreeTransfer"
+      ],
+      "transferText": "Free Transfer to your store - OH to OH",
+      "exteriorColor": "Silver",
+      "interiorColor": "Gray",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "45240"
+    },
+    {
+      "stockNumber": 17223788,
+      "vin": "4T1BF1FK4GU157986",
+      "year": 2016,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "SE",
+      "basePrice": 18998.0,
+      "msrp": 23100.0,
+      "mileage": 22947,
+      "storeId": 6043,
+      "storeName": "Rochester",
+      "storeCity": "Rochester",
+      "geoCity": "Rochester",
+      "state": "New York",
+      "stateAbbreviation": null,
+      "averageRating": 4.64,
+      "numberOfReviews": 25,
+      "imageCount": "23",
+      "newTireCount": 0,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": true,
+      "highlightedFeatures": "Sunroof(s), Rear View Camera, Navigation System, Cruise Control, Auxiliary Audio Input, Rear Spoiler",
+      "highlights": [
+        "singleOwner",
+        "lowMilesPerYear",
+        "warranty",
+        "advancedFeatures"
+      ],
+      "badgeTitles": [
+        "Single Owner",
+        "Low Miles Per Year",
+        "Warranty",
+        "Advanced Features"
+      ],
+      "lastMadeSaleableDate": "2019-03-14T11:07:18.153Z",
+      "transferFee": 0.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "FreeTransfer"
+      ],
+      "transferText": "Free Transfer to your store - NY to OH",
+      "exteriorColor": "White",
+      "interiorColor": "Gray",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "14623"
+    },
+    {
+      "stockNumber": 17223936,
+      "vin": "4T1BF1FK1GU566432",
+      "year": 2016,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "LE",
+      "basePrice": 16998.0,
+      "msrp": 23100.0,
+      "mileage": 16700,
+      "storeId": 6043,
+      "storeName": "Rochester",
+      "storeCity": "Rochester",
+      "geoCity": "Rochester",
+      "state": "New York",
+      "stateAbbreviation": null,
+      "averageRating": 4.64,
+      "numberOfReviews": 25,
+      "imageCount": "21",
+      "newTireCount": 0,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": true,
+      "highlightedFeatures": "Rear View Camera, Cruise Control, Auxiliary Audio Input, Overhead Airbags, Traction Control, Side Airbags",
+      "highlights": [
+        "singleOwner",
+        "lowMiles",
+        "warranty",
+        "advancedFeatures"
+      ],
+      "badgeTitles": [
+        "Single Owner",
+        "Low Miles",
+        "Warranty",
+        "Advanced Features"
+      ],
+      "lastMadeSaleableDate": "2019-04-02T18:05:53.923Z",
+      "transferFee": 0.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "FreeTransfer"
+      ],
+      "transferText": "Free Transfer to your store - NY to OH",
+      "exteriorColor": "Silver",
+      "interiorColor": "Gray",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "14623"
+    },
+    {
+      "stockNumber": 17224023,
+      "vin": "4T1BF1FK5GU180872",
+      "year": 2016,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "SE",
+      "basePrice": 17998.0,
+      "msrp": 23100.0,
+      "mileage": 11794,
+      "storeId": 6043,
+      "storeName": "Rochester",
+      "storeCity": "Rochester",
+      "geoCity": "Rochester",
+      "state": "New York",
+      "stateAbbreviation": null,
+      "averageRating": 4.64,
+      "numberOfReviews": 25,
+      "imageCount": "22",
+      "newTireCount": 0,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": true,
+      "highlightedFeatures": "Sunroof(s), Rear View Camera, Cruise Control, Auxiliary Audio Input, Rear Spoiler, Alloy Wheels",
+      "highlights": [
+        "singleOwner",
+        "lowMiles",
+        "warranty"
+      ],
+      "badgeTitles": [
+        "Single Owner",
+        "Low Miles",
+        "Warranty"
+      ],
+      "lastMadeSaleableDate": "2019-03-20T15:06:43.613Z",
+      "transferFee": 0.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "FreeTransfer"
+      ],
+      "transferText": "Free Transfer to your store - NY to OH",
+      "exteriorColor": "Silver",
+      "interiorColor": "Black",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "14623"
+    },
+    {
+      "stockNumber": 17332266,
+      "vin": "4T1BF1FK0GU589071",
+      "year": 2016,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "SE",
+      "basePrice": 18998.0,
+      "msrp": 23100.0,
+      "mileage": 15353,
+      "storeId": 6041,
+      "storeName": "Grand Rapids (Kentwood)",
+      "storeCity": "Kentwood",
+      "geoCity": "Kentwood",
+      "state": "Michigan",
+      "stateAbbreviation": null,
+      "averageRating": 4.64,
+      "numberOfReviews": 25,
+      "imageCount": "25",
+      "newTireCount": 0,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": true,
+      "highlightedFeatures": "Sunroof(s), Rear View Camera, Navigation System, Cruise Control, Auxiliary Audio Input, Rear Spoiler",
+      "highlights": [
+        "singleOwner",
+        "lowMiles",
+        "warranty"
+      ],
+      "badgeTitles": [
+        "Single Owner",
+        "Low Miles",
+        "Warranty"
+      ],
+      "lastMadeSaleableDate": "2019-04-03T09:08:09.647Z",
+      "transferFee": 149.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "Paid"
+      ],
+      "transferText": "$149 Transfer to your store - MI to OH",
+      "exteriorColor": "Blue",
+      "interiorColor": "Gray",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "49512"
+    },
+    {
+      "stockNumber": 17069810,
+      "vin": "4T1BF1FK7GU508292",
+      "year": 2016,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "Special Edition",
+      "basePrice": 16998.0,
+      "msrp": 23100.0,
+      "mileage": 42737,
+      "storeId": 7175,
+      "storeName": "Cincinnati",
+      "storeCity": "Cincinnati",
+      "geoCity": "Cincinnati",
+      "state": "Ohio",
+      "stateAbbreviation": null,
+      "averageRating": 4.64,
+      "numberOfReviews": 25,
+      "imageCount": "22",
+      "newTireCount": 2,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": true,
+      "highlightedFeatures": "Sunroof(s), Rear View Camera, Navigation System, Cruise Control, Auxiliary Audio Input, Rear Spoiler",
+      "highlights": [
+        "singleOwner",
+        "newPairTires"
+      ],
+      "badgeTitles": [
+        "Single Owner",
+        "New Pair Tires"
+      ],
+      "lastMadeSaleableDate": "2019-02-13T11:06:40.133Z",
+      "transferFee": 0.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "FreeTransfer"
+      ],
+      "transferText": "Free Transfer to your store - OH to OH",
+      "exteriorColor": "Blue",
+      "interiorColor": "Blue",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "45240"
+    },
+    {
+      "stockNumber": 17239025,
+      "vin": "4T1BF1FK9FU027295",
+      "year": 2015,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "SE",
+      "basePrice": 15998.0,
+      "msrp": 23000.0,
+      "mileage": 47932,
+      "storeId": 7175,
+      "storeName": "Cincinnati",
+      "storeCity": "Cincinnati",
+      "geoCity": "Cincinnati",
+      "state": "Ohio",
+      "stateAbbreviation": null,
+      "averageRating": 4.946,
+      "numberOfReviews": 37,
+      "imageCount": null,
+      "newTireCount": 0,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": true,
+      "highlightedFeatures": "Rear View Camera, Cruise Control, Auxiliary Audio Input, Rear Spoiler, Alloy Wheels, Overhead Airbags",
+      "highlights": [],
+      "badgeTitles": [],
+      "lastMadeSaleableDate": "2019-04-05T18:09:02.023Z",
+      "transferFee": 0.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "FreeTransfer"
+      ],
+      "transferText": "Free Transfer to your store - OH to OH",
+      "exteriorColor": "Black",
+      "interiorColor": "Black",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "45240"
+    },
+    {
+      "stockNumber": 17005852,
+      "vin": "4T1BF1FK5FU990050",
+      "year": 2015,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "LE",
+      "basePrice": 15998.0,
+      "msrp": 23000.0,
+      "mileage": 43950,
+      "storeId": 6013,
+      "storeName": "Mechanicsburg",
+      "storeCity": "Mechanicsburg",
+      "geoCity": "Mechanicsburg",
+      "state": "Pennsylvania",
+      "stateAbbreviation": null,
+      "averageRating": 4.946,
+      "numberOfReviews": 37,
+      "imageCount": "22",
+      "newTireCount": 0,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": true,
+      "highlightedFeatures": "Rear View Camera, Cruise Control, Auxiliary Audio Input, Overhead Airbags, Traction Control, Side Airbags",
+      "highlights": [],
+      "badgeTitles": [],
+      "lastMadeSaleableDate": "2019-03-27T16:07:16.953Z",
+      "transferFee": 0.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "FreeTransfer"
+      ],
+      "transferText": "Free Transfer to your store - PA to OH",
+      "exteriorColor": "Gray",
+      "interiorColor": null,
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "17050"
+    },
+    {
+      "stockNumber": 17201352,
+      "vin": "4T1BF1FK0GU578085",
+      "year": 2016,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "XLE",
+      "basePrice": 20998.0,
+      "msrp": 23100.0,
+      "mileage": 9485,
+      "storeId": 6055,
+      "storeName": "Harrisonburg",
+      "storeCity": "Harrisonburg",
+      "geoCity": "Harrisonburg",
+      "state": "Virginia",
+      "stateAbbreviation": null,
+      "averageRating": 4.64,
+      "numberOfReviews": 25,
+      "imageCount": "24",
+      "newTireCount": 0,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": true,
+      "highlightedFeatures": "Leather Seats, Sunroof(s), Rear View Camera, Navigation System, Front Seat Heaters, Cruise Control",
+      "highlights": [
+        "singleOwner",
+        "lowMiles",
+        "warranty",
+        "advancedFeatures"
+      ],
+      "badgeTitles": [
+        "Single Owner",
+        "Low Miles",
+        "Warranty",
+        "Advanced Features"
+      ],
+      "lastMadeSaleableDate": "2019-03-13T09:07:10.097Z",
+      "transferFee": 199.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "Paid"
+      ],
+      "transferText": "$199 Transfer to your store - VA to OH",
+      "exteriorColor": "Gray",
+      "interiorColor": "Gray",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "22801"
+    },
+    {
+      "stockNumber": 17185792,
+      "vin": "4T1B11HK2JU524726",
+      "year": 2018,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "LE",
+      "basePrice": 20998.0,
+      "msrp": 23500.0,
+      "mileage": 7152,
+      "storeId": 6043,
+      "storeName": "Rochester",
+      "storeCity": "Rochester",
+      "geoCity": "Rochester",
+      "state": "New York",
+      "stateAbbreviation": null,
+      "averageRating": 5.0,
+      "numberOfReviews": 3,
+      "imageCount": "22",
+      "newTireCount": 4,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": true,
+      "highlightedFeatures": "Convenience Package, Auto Cruise Control, Rear View Camera, Auxiliary Audio Input, Alloy Wheels, Overhead Airbags",
+      "highlights": [
+        "singleOwner",
+        "allNewTires",
+        "lowMiles",
+        "warranty",
+        "fuelEfficient",
+        "advancedFeatures"
+      ],
+      "badgeTitles": [
+        "Single Owner",
+        "All New Tires",
+        "Low Miles",
+        "Warranty",
+        "Fuel Efficient",
+        "Advanced Features"
+      ],
+      "lastMadeSaleableDate": "2019-03-01T09:09:07.853Z",
+      "transferFee": 0.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "FreeTransfer"
+      ],
+      "transferText": "Free Transfer to your store - NY to OH",
+      "exteriorColor": "Silver",
+      "interiorColor": "Black",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "14623"
+    },
+    {
+      "stockNumber": 17340969,
+      "vin": "4T1B11HK9JU551406",
+      "year": 2018,
+      "make": "Toyota",
+      "model": "Camry",
+      "body": "4D Sedan",
+      "trim": "LE",
+      "basePrice": 17998.0,
+      "msrp": 23500.0,
+      "mileage": 40109,
+      "storeId": 6013,
+      "storeName": "Mechanicsburg",
+      "storeCity": "Mechanicsburg",
+      "geoCity": "Mechanicsburg",
+      "state": "Pennsylvania",
+      "stateAbbreviation": null,
+      "averageRating": 5.0,
+      "numberOfReviews": 3,
+      "imageCount": null,
+      "newTireCount": 0,
+      "isNew": false,
+      "isNewArrival": false,
+      "isTransferable": true,
+      "highlightedFeatures": "Auto Cruise Control, Rear View Camera, Auxiliary Audio Input, Alloy Wheels, Overhead Airbags, Traction Control",
+      "highlights": [
+        "singleOwner",
+        "fuelEfficient",
+        "advancedFeatures"
+      ],
+      "badgeTitles": [
+        "Single Owner",
+        "Fuel Efficient",
+        "Advanced Features"
+      ],
+      "lastMadeSaleableDate": "2019-03-29T15:20:53.42Z",
+      "transferFee": 0.0,
+      "transferTags": [
+        "GeneratedByCps",
+        "FreeTransfer"
+      ],
+      "transferText": "Free Transfer to your store - PA to OH",
+      "exteriorColor": "Gray",
+      "interiorColor": "Black",
+      "transmission": "Automatic",
+      "review": null,
+      "storeZip": "17050"
+    }
+  ],
+  "recommendedRefinements": [
+    {
+      "display": "XLE",
+      "url": "/cars/toyota/camry/xle",
+      "count": 2,
+      "category": "Trim",
+      "noFollow": false
+    },
+    {
+      "display": "LE",
+      "url": "/cars/toyota/camry/le",
+      "count": 16,
+      "category": "Trim",
+      "noFollow": false
+    },
+    {
+      "display": "SE",
+      "url": "/cars/toyota/camry/se",
+      "count": 13,
+      "category": "Trim",
+      "noFollow": false
+    },
+    {
+      "display": "Sunroof(s)",
+      "url": "/cars/toyota/camry/sunroof(s)",
+      "count": 12,
+      "category": "Features",
+      "noFollow": false
+    },
+    {
+      "display": "Leatherette & Cloth",
+      "url": "/cars/toyota/camry/leatherette-&-cloth",
+      "count": 13,
+      "category": "Features",
+      "noFollow": false
+    },
+    {
+      "display": "Bluetooth",
+      "url": "/cars/toyota/camry/bluetooth",
+      "count": 30,
+      "category": "Features",
+      "noFollow": false
+    },
+    {
+      "display": "Entune",
+      "url": "/cars/toyota/camry/entune",
+      "count": 13,
+      "category": "Features",
+      "noFollow": false
+    },
+    {
+      "display": "Silver",
+      "url": "/cars/toyota/camry/silver",
+      "count": 7,
+      "category": "ExteriorColor",
+      "noFollow": false
+    },
+    {
+      "display": "Rear View Camera",
+      "url": "/cars/toyota/camry/rear-view-camera",
+      "count": 26,
+      "category": "Features",
+      "noFollow": false
+    },
+    {
+      "display": "Gray",
+      "url": "/cars/toyota/camry/gray",
+      "count": 8,
+      "category": "ExteriorColor",
+      "noFollow": false
+    },
+    {
+      "display": "Gray Interior Color",
+      "url": "/cars/toyota/camry/interiorcolor-gray",
+      "count": 12,
+      "category": "InteriorColor",
+      "noFollow": false
+    },
+    {
+      "display": "Smart Key",
+      "url": "/cars/toyota/camry/smart-key",
+      "count": 5,
+      "category": "Features",
+      "noFollow": false
+    },
+    {
+      "display": "Rear Spoiler",
+      "url": "/cars/toyota/camry/rear-spoiler",
+      "count": 14,
+      "category": "Features",
+      "noFollow": false
+    },
+    {
+      "display": "Black Interior Color",
+      "url": "/cars/toyota/camry/interiorcolor-black",
+      "count": 16,
+      "category": "InteriorColor",
+      "noFollow": false
+    },
+    {
+      "display": "Convenience Package",
+      "url": "/cars/toyota/camry/convenience-package",
+      "count": 3,
+      "category": "Packages",
+      "noFollow": false
+    },
+    {
+      "display": "Blue",
+      "url": "/cars/toyota/camry/blue",
+      "count": 4,
+      "category": "ExteriorColor",
+      "noFollow": false
+    },
+    {
+      "display": "Red",
+      "url": "/cars/toyota/camry/red",
+      "count": 2,
+      "category": "ExteriorColor",
+      "noFollow": false
+    },
+    {
+      "display": "Alloy Wheels",
+      "url": "/cars/toyota/camry/alloy-wheels",
+      "count": 22,
+      "category": "Features",
+      "noFollow": false
+    },
+    {
+      "display": "Cruise Control",
+      "url": "/cars/toyota/camry/cruise-control",
+      "count": 29,
+      "category": "Features",
+      "noFollow": false
+    },
+    {
+      "display": "CD Audio",
+      "url": "/cars/toyota/camry/cd-audio",
+      "count": 29,
+      "category": "Features",
+      "noFollow": false
+    },
+    {
+      "display": "Cloth Seats",
+      "url": "/cars/toyota/camry/cloth-seats",
+      "count": 18,
+      "category": "Features",
+      "noFollow": false
+    },
+    {
+      "display": "Black",
+      "url": "/cars/toyota/camry/black",
+      "count": 7,
+      "category": "ExteriorColor",
+      "noFollow": false
+    }
+  ],
+  "removeRefinements": [
+    {
+      "name": "Toyota",
+      "url": "/cars/all",
+      "isKeyword": false
+    },
+    {
+      "name": "Camry",
+      "url": "/cars/toyota",
+      "isKeyword": false
+    }
+  ],
+  "categories": [
+    {
+      "name": "Make",
+      "visible": true,
+      "displayOrder": 0,
+      "displayName": "Make",
+      "active": true,
+      "seoPrefix": null,
+      "type": "Facet"
+    },
+    {
+      "name": "Model",
+      "visible": true,
+      "displayOrder": 1,
+      "displayName": "Model",
+      "active": true,
+      "seoPrefix": null,
+      "type": "Facet"
+    },
+    {
+      "name": "Series",
+      "visible": false,
+      "displayOrder": 2,
+      "displayName": "Series",
+      "active": true,
+      "seoPrefix": null,
+      "type": "Facet"
+    },
+    {
+      "name": "Trim",
+      "visible": true,
+      "displayOrder": 3,
+      "displayName": "Trim",
+      "active": true,
+      "seoPrefix": null,
+      "type": "Facet"
+    },
+    {
+      "name": "Types",
+      "visible": true,
+      "displayOrder": 4,
+      "displayName": "Body Type",
+      "active": true,
+      "seoPrefix": null,
+      "type": "Facet"
+    },
+    {
+      "name": "Body",
+      "visible": true,
+      "displayOrder": 5,
+      "displayName": "Body Style",
+      "active": true,
+      "seoPrefix": null,
+      "type": "Facet"
+    },
+    {
+      "name": "YearFilter",
+      "visible": true,
+      "displayOrder": 6,
+      "displayName": "Year",
+      "active": true,
+      "seoPrefix": null,
+      "type": "Filter"
+    },
+    {
+      "name": "PriceFilter",
+      "visible": true,
+      "displayOrder": 7,
+      "displayName": "Price / Monthly Payment",
+      "active": true,
+      "seoPrefix": null,
+      "type": "Filter"
+    },
+    {
+      "name": "MileageFilter",
+      "visible": true,
+      "displayOrder": 8,
+      "displayName": "Mileage",
+      "active": true,
+      "seoPrefix": null,
+      "type": "Filter"
+    },
+    {
+      "name": "Features",
+      "visible": true,
+      "displayOrder": 9,
+      "displayName": "Features",
+      "active": true,
+      "seoPrefix": null,
+      "type": "Facet"
+    },
+    {
+      "name": "Packages",
+      "visible": true,
+      "displayOrder": 10,
+      "displayName": "Packages",
+      "active": true,
+      "seoPrefix": null,
+      "type": "Facet"
+    },
+    {
+      "name": "VehicleSize",
+      "visible": true,
+      "displayOrder": 11,
+      "displayName": "Size",
+      "active": true,
+      "seoPrefix": null,
+      "type": "Facet"
+    },
+    {
+      "name": "ExteriorColor",
+      "visible": true,
+      "displayOrder": 12,
+      "displayName": "Exterior Color",
+      "active": true,
+      "seoPrefix": "exterior",
+      "type": "Facet"
+    },
+    {
+      "name": "InteriorColor",
+      "visible": true,
+      "displayOrder": 13,
+      "displayName": "Interior Color",
+      "active": true,
+      "seoPrefix": "interior",
+      "type": "Facet"
+    },
+    {
+      "name": "Transmission",
+      "visible": true,
+      "displayOrder": 14,
+      "displayName": "Transmission",
+      "active": true,
+      "seoPrefix": null,
+      "type": "Facet"
+    },
+    {
+      "name": "Cylinders",
+      "visible": true,
+      "displayOrder": 15,
+      "displayName": "Cylinders",
+      "active": true,
+      "seoPrefix": null,
+      "type": "Facet"
+    },
+    {
+      "name": "mpghighway",
+      "visible": true,
+      "displayOrder": 16,
+      "displayName": "MPG Highway",
+      "active": true,
+      "seoPrefix": null,
+      "type": "Filter"
+    },
+    {
+      "name": "StoreName",
+      "visible": false,
+      "displayOrder": 17,
+      "displayName": "Store",
+      "active": true,
+      "seoPrefix": null,
+      "type": "Facet"
+    },
+    {
+      "name": "EngineSize",
+      "visible": false,
+      "displayOrder": 18,
+      "displayName": "Engine Size",
+      "active": true,
+      "seoPrefix": null,
+      "type": "Facet"
+    },
+    {
+      "name": "MpgCity",
+      "visible": false,
+      "displayOrder": 19,
+      "displayName": "MPG City",
+      "active": true,
+      "seoPrefix": "mpgcity",
+      "type": "Facet"
+    },
+    {
+      "name": "DriveTrain",
+      "visible": false,
+      "displayOrder": 20,
+      "displayName": "Drive Train",
+      "active": true,
+      "seoPrefix": null,
+      "type": "Facet"
+    },
+    {
+      "name": "Origin",
+      "visible": false,
+      "displayOrder": 21,
+      "displayName": "Domestic/Import",
+      "active": true,
+      "seoPrefix": null,
+      "type": "Facet"
+    }
+  ],
+  "start": 0,
+  "count": 33,
+  "totalCount": 33,
+  "confidence": 100,
+  "remediated": false,
+  "remediations": null,
+  "noResultsMessage": null,
+  "seo": {
+    "pattern": "model",
+    "title": "Used Toyota Camry for Sale",
+    "analyticsId": "Cars:Make:Model",
+    "h1": null,
+    "description": "Used Toyota Camry for Sale on carmax.com. Search new and used cars, research vehicle models, and compare cars, all online at carmax.com",
+    "keywords": null,
+    "canonical": "https://www.carmax.com/cars/toyota/camry",
+    "metadata": "index,follow",
+    "breadcrumb": [
+      {
+        "name": "Used Cars",
+        "url": "/cars",
+        "isKeyword": false
+      },
+      {
+        "name": "Toyota",
+        "url": "/cars/toyota",
+        "isKeyword": false
+      },
+      {
+        "name": "Camry",
+        "url": "/cars/toyota/camry",
+        "isKeyword": false
+      }
+    ],
+    "aggregateReview": {
+      "id": "toyota-camry",
+      "display": "Toyota Camry",
+      "aggregateRating": 4.605335786568538,
+      "reviewCount": 1087,
+      "selectedReviews": [
+        {
+          "customerReviewId": 56653086,
+          "submissionDate": "2015-12-14T00:00:00",
+          "overallRating": 5,
+          "vehicleName": "2012 TOYOTA CAMRY",
+          "vehicleMake": "Toyota",
+          "vehicleModel": "Camry",
+          "vehicleYear": 2012,
+          "vehicleType": null,
+          "vehicleTrim": "se",
+          "vehicleBody": "se 4d sedan",
+          "vehicleCategory": "cars",
+          "reviewTitle": "Best car I ever owned",
+          "reviewText": "I bought a 2012 Toyota Camry SE with the 6 cylinder engine and I am very satisfied with my purchase. It has plenty of leg and head room, interior space, nice sized trunk and great on gas. This Camry came with everything I wanted plus some surprises like a clear bug shield and illuminated electric blue Camry kick plate. This vehicle rides and handles great, responsive steering and manuverability is smooth. I would recommend this car to anyone looking for a dependable and gas saving vehicle. Road noise is minimal, the gauges/knobs are easily readable and not clustered plus there are plenty of cup holders for your drinks, two in the middle console, front doors plus two in the armrest in the backseat. Great vehicle for the money and very nice.",
+          "reviewerName": "B Williams",
+          "reviewerLocation": "Georgetown, KY",
+          "tags": [
+            "toyota",
+            "toyota-camry",
+            "toyota-camry-2012"
+          ]
+        },
+        {
+          "customerReviewId": 62576671,
+          "submissionDate": "2016-03-19T00:00:00",
+          "overallRating": 5,
+          "vehicleName": "2005 TOYOTA CAMRY",
+          "vehicleMake": "Toyota",
+          "vehicleModel": "Camry",
+          "vehicleYear": 2005,
+          "vehicleType": null,
+          "vehicleTrim": "xle",
+          "vehicleBody": "xle 4d sedan",
+          "vehicleCategory": "cars",
+          "reviewTitle": "Excellent basic car.",
+          "reviewText": "I've had a '96 Accord, '03 Accord, '07 Civic, '05 4cyl LE Camry, '05 6cyl XLE Camry, '05 4cyl XLE Camry cloth seats. 05 4cyl has a timing chain which does not need to be changed. 05 6cyl has a timing belt which does obviously need a change and it an expensive job.\nDo your homework as far as how many owners, former smoker car,accidents,fooding etc... With that done the 05'06 Camrys are amazing basic transportation vehicles. No car is everything. However, even the 4cyl '05 Camry has PLENTY of punch when needed. It is a pleasure to drive in the most basic way. Probably not for mega driving enthusiasts. However, if you don't like headaches and are often in your \"second home\" (lol) the 2005 Camry can and has been great for me!",
+          "reviewerName": "John Doe",
+          "reviewerLocation": "White Plains, NY",
+          "tags": [
+            "toyota",
+            "toyota-camry",
+            "toyota-camry-2005"
+          ]
+        },
+        {
+          "customerReviewId": 79478393,
+          "submissionDate": "2017-01-06T00:00:00",
+          "overallRating": 4,
+          "vehicleName": "2011 TOYOTA CAMRY",
+          "vehicleMake": "Toyota",
+          "vehicleModel": "Camry",
+          "vehicleYear": 2011,
+          "vehicleType": null,
+          "vehicleTrim": null,
+          "vehicleBody": null,
+          "vehicleCategory": "cars",
+          "reviewTitle": "Wonderful Car",
+          "reviewText": "All Camrys in my opinion are incredibly reliable cars. I had a 2002 before getting the 2011 and I would've stayed in my 2002 much longer had I not been in an accident. The only complaint I have about the 2011 is that the sun visor on the drivers side broke about a month after I bought it. Apparently this is a problem on all 2007-2011 Camrys.",
+          "reviewerName": "Julia Romero",
+          "reviewerLocation": "San Diego, CA",
+          "tags": [
+            "toyota",
+            "toyota-camry",
+            "toyota-camry-2011"
+          ]
+        }
+      ],
+      "make": "Toyota",
+      "model": "Camry",
+      "year": null
+    },
+    "supplements": {
+      "items": [
+        {
+          "items": [
+            {
+              "display": "2018 Toyota Camry",
+              "url": "/cars/toyota/camry/2018"
+            },
+            {
+              "display": "2017 Toyota Camry",
+              "url": "/cars/toyota/camry/2017"
+            },
+            {
+              "display": "2016 Toyota Camry",
+              "url": "/cars/toyota/camry/2016"
+            },
+            {
+              "display": "2015 Toyota Camry",
+              "url": "/cars/toyota/camry/2015"
+            }
+          ],
+          "title": "Shop For a Used Toyota Camry by Year"
+        }
+      ],
+      "geoSupplements": [
+        {
+          "items": [
+            {
+              "display": "Atlanta, GA",
+              "url": "/cars/camry/toyota?location=atlanta+ga"
+            },
+            {
+              "display": "Boston, MA",
+              "url": "/cars/camry/toyota?location=boston+ma"
+            },
+            {
+              "display": "Chicago, IL",
+              "url": "/cars/camry/toyota?location=chicago+il"
+            },
+            {
+              "display": "Denver, CO",
+              "url": "/cars/camry/toyota?location=denver+co"
+            },
+            {
+              "display": "Houston, TX",
+              "url": "/cars/camry/toyota?location=houston+tx"
+            },
+            {
+              "display": "Los Angeles, CA",
+              "url": "/cars/camry/toyota?location=los+angeles+ca"
+            },
+            {
+              "display": "Miami, FL",
+              "url": "/cars/camry/toyota?location=miami+fl"
+            },
+            {
+              "display": "Seattle, WA",
+              "url": "/cars/camry/toyota?location=seattle+wa"
+            },
+            {
+              "display": "Washington, DC",
+              "url": "/cars/camry/toyota?location=washington+dc"
+            }
+          ],
+          "title": null
+        }
+      ]
+    },
+    "articles": [
+      {
+        "title": "10 Best Midsize Sedans for 2019: Reviews, Photos, and More",
+        "category": "Rankings",
+        "abstract": "Are you looking for a midsize sedan? These midsize sedans, ranked based on CarMax sales information from July 1, 2018, to December 31, 2018, offer choices of a comfortable ride, driving enjoyment and infotainment systems/onboard amenities.<br>",
+        "url": "/articles/best-midsize-sedans",
+        "publishDate": "Wed, Mar 20, 2019",
+        "imageUrl": "https://www.carmax.com/~/media/images/carmax/com/Articles/best-midsize-sedans/best-midsize-sedans-abstract-319x180.jpg?ts=20180720T111605Z",
+        "imageAlt": "Article Image FPO"
+      },
+      {
+        "title": "25 Best Cars for the Money 2019: Ranked by Price",
+        "category": "Rankings",
+        "abstract": "Save time on your next vehicle search using our list of best cars with average prices ranging from $10,000 to $35,000, based on CarMax sales and price data from July 1, 2018, through December 31, 2018. With over fifty-thousand vehicles on our lots nationwide, CarMax has a variety of budget-friendly vehicles to suit your needs. <br>",
+        "url": "/articles/best-cars-for-the-money",
+        "publishDate": "Wed, Feb 27, 2019",
+        "imageUrl": "https://www.carmax.com/~/media/images/carmax/com/Articles/best-cars-for-the-money/best-cars-for-the-money-abstract-319x180.jpg?ts=20180710T135934Z",
+        "imageAlt": "Article Image FPO"
+      },
+      {
+        "title": "Used Car Pricing Guide",
+        "category": "Rankings",
+        "abstract": "In the market for a used car that's within your budget? Check out our used car pricing guide to get started. You&rsquo;ll find a variety of sedans, trucks and SUVs to suit your needs.<br>",
+        "url": "/articles/used-car-pricing-guide",
+        "publishDate": "Tue, Jul 24, 2018",
+        "imageUrl": "https://www.carmax.com/~/media/images/carmax/com/Articles/used-car-pricing-guide/used-car-pricing-guide-abstract-319x180.jpg?ts=20180724T140307Z",
+        "imageAlt": "Article Image FPO"
+      }
+    ],
+    "vehicleDescription": null
+  }
+}
